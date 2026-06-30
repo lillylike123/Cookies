@@ -1,0 +1,15 @@
+body {
+    font: sans-serif;
+    color: rgb(51, 34, 3);
+    background-color: bisque;
+}
+
+img {
+    border-radius: 10%;
+    width: 300px;
+    
+}
+
+h1 {
+    font-weight: extra bold;
+}
